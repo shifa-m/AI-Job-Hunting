@@ -59,8 +59,6 @@ const jobSchema=mongoose.Schema({
                         type:String,
                         required:true
             },
-            
-            
             postedAt:{
                         type:Date,
                         
